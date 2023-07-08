@@ -1,0 +1,19 @@
+## aosp_violet-userdebug 13 TQ2A.230505.002 1683134039 release-keys
+- Manufacturer: xiaomi
+- Platform: sm6150
+- Codename: violet
+- Brand: Xiaomi
+- Flavor: aosp_violet-userdebug
+- Release Version: 13
+- Kernel Version: 4.14.122
+- Id: TQ2A.230505.002
+- Incremental: 1683134039
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/violet/violet:13/TQ2A.230505.002/1713:userdebug/release-keys
+- OTA version: 
+- Branch: aosp_violet-userdebug-13-TQ2A.230505.002-1683134039-release-keys
+- Repo: xiaomi_violet_dump
